@@ -3,7 +3,7 @@ Mesleki ve Teknik bir lise olan İOMTAl'de okuyan 10. sınıf bir öğrenciyim. 
 
 
 ## 🌐 Sosyal Medyalar:
-[![slayer0010](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] [![gzdcanci](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gzdcanci) 
+[![slayer0010](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://invite/slayer0010)[![gzdcanci](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gzdcanci) 
 
 # 💻 İlgilendiğim Yazılım Dilleri ve Frameworkler:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
