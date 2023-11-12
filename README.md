@@ -1,4 +1,4 @@
-# 💫 Ben Kimim?:
+# 💫 Ben Kimim?
 Mesleki ve Teknik bir lise olan İOMTAl'de okuyan 10. sınıf bir öğrenciyim. Okuduğum bölüm ve dalımın adı Bilişim Teknolojileri / Yazılım Geliştirme. Kendi çapımda OpenCV projeleri yapıyorum ve bunları Arduino ile bağlantısını yaparak ortaya bir ürün çıkarıyorum, unity üzerinde kendi kendime oyun mekanikleri yapıyorum ve bunları package olarak çıktı alıyorum. Bunların yanı sıra her gün yeni eğitimlere girip kendimi sürekli geliştiriyorum.
 
 
