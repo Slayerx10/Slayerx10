@@ -1,42 +1,13 @@
-<div align="center">
-  <a href="https://instagram.com/gzdcanci/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=gzdcanci&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=slayer0010&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+# 💫 Ben Kimim?:
+Mesleki ve Teknik bir lise olan İOMTAl'de okuyan 10. sınıf bir öğrenciyim. Okuduğum bölüm ve dalımın adı Bilişim Teknolojileri / Yazılım Geliştirme. Kendi çapımda OpenCV projeleri yapıyorum ve bunları Arduino ile bağlantısını yaparak ortaya bir ürün çıkarıyorum, unity üzerinde kendi kendime oyun mekanikleri yapıyorum ve bunları package olarak çıktı alıyorum. Bunların yanı sıra her gün yeni eğitimlere girip kendimi sürekli geliştiriyorum.
 
-###
 
-<h3 align="left">👩‍💻  Ben Kimim?</h3>
+## 🌐 Sosyal Medyalar:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/slayer0010) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gzdcanci) 
 
-###
-
-<h5 align="left">Mesleki ve Teknik bir lise olan İOMTAl'de okuyan 10. sınıf bir öğrenciyim. Okuduğum bölüm ve dalımın adı Bilişim Teknolojileri / Yazılım Geliştirme. Kendi çapımda OpenCV projeleri yapıyorum ve bunları Arduino ile bağlantısını yaparak ortaya bir ürün çıkarıyorum, unity üzerinde kendi kendime oyun mekanikleri yapıyorum ve bunları package olarak çıktı alıyorum. Bunların yanı sıra her gün yeni eğitimlere girip kendimi sürekli geliştiriyorum.</h5>
-
-###
-
-<h2 align="left">🛠 İlgilendiğim Yazılım Dilleri ve Kullandığım Araçlar</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
+# 💻 İlgilendiğim Yazılım Dilleri ve Frameworkler:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Slayerx10&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Slayerx10&theme=material-palenight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Slayerx10&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
